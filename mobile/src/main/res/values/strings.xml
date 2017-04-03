@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">marcianito</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="titulo_app">Marcianito</string>
+    <string name="titulo_boton">Entrar</string>
+    <string name="titulo_bienvenida">Bienvenido</string>
+</resources>
